@@ -18,7 +18,7 @@
 		<link rel="stylesheet" type="text/css" href="style/style.css?13-0-1-16" media="screen,print" />
 		<link rel="stylesheet" type="text/css" href="style/template.css?13-0-1-16" media="screen" />
 		<link rel="stylesheet" type="text/css" href="style/menu.css?13-0-1-16" media="screen" />
-		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-0-1-16-638811435741893517" media="screen" />
+		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-0-1-16-638811468745266493" media="screen" />
 		<script type="text/javascript" src="res/jquery.js?13-0-1-16"></script>
 		<script type="text/javascript" src="res/x5engine.js?13-0-1-16" data-files-version="13-0-1-16"></script>
 		
@@ -27,7 +27,7 @@
 		<script type="text/javascript">
 			window.onload = function(){ checkBrowserCompatibility('El Explorador que estás usando no es compatible con las funciones requeridas para mostrar este Sitio web.','El Navegador que estás utilizando podría no ser compatible con las funciones requeridas para poder ver este Sitio web.','[1]Actualiza tu explorador [/1] o [2]continuar de todos modos[/2].','http://outdatedbrowser.com/'); };
 		</script>
-		<link rel="icon" href="favicon.ico?13-0-1-16-638811435741801284" type="image/vnd.microsoft.icon" />
+		<link rel="icon" href="favicon.ico?13-0-1-16-638811468745266493" type="image/vnd.microsoft.icon" />
 	</head>
 	<body>
 		<div id="imHeaderBg"></div>
