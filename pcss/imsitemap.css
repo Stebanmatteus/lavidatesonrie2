@@ -35,7 +35,7 @@ input#imHeader_imObjectSearch_05_field[type=text] { box-sizing: border-box; line
 #imHeader_imCellStyle_9 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
 #imHeader_imCellStyleGraphics_9 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imHeader_imObjectTitle_09 {overflow: hidden; text-align: center; }
-#imHeader_imObjectTitle_09_text {font: normal normal normal 36pt 'Tahoma';  padding: 0px 5px 5px 0px;background-color: transparent; position: relative; display: inline-block; }
+#imHeader_imObjectTitle_09_text {font: normal normal normal 36pt 'Tahoma';  padding: 0px 10px 10px 0px;background-color: transparent; position: relative; display: inline-block; }
 #imHeader_imObjectTitle_09_text,
 #imHeader_imObjectTitle_09_text a { color: #FFBF00; }
 #imHeader_imObjectTitle_09_text a{ text-decoration: none; }
@@ -43,7 +43,7 @@ input#imHeader_imObjectSearch_05_field[type=text] { box-sizing: border-box; line
 #imHeader_imCellStyle_10 { position: relative; box-sizing: border-box; text-align: center; z-index: 2;}
 #imHeader_imCellStyleGraphics_10 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imHeader_imObjectTitle_10 {overflow: hidden; text-align: center; }
-#imHeader_imObjectTitle_10_text {font: normal normal normal 36pt 'Tahoma';  padding: 0px 5px 5px 0px;background-color: transparent; position: relative; display: inline-block; }
+#imHeader_imObjectTitle_10_text {font: normal normal normal 36pt 'Tahoma';  padding: 0px 10px 10px 0px;background-color: transparent; position: relative; display: inline-block; }
 #imHeader_imObjectTitle_10_text,
 #imHeader_imObjectTitle_10_text a { color: #FFBF00; }
 #imHeader_imObjectTitle_10_text a{ text-decoration: none; }
@@ -525,6 +525,18 @@ input#imHeader_imObjectSearch_05_field[type=text] { box-sizing: border-box; line
 .imSiteMap img { vertical-align: text-bottom; }
 .imSiteMap li { padding: 5px 0 5px 20px; }
 .imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
+.imSiteMap li { padding: 5px 0 5px 20px; }
+.imSiteMap img { vertical-align: text-bottom; }
 #imSitemapPage { box-sizing: border-box; width: 1170px; margin-left: auto; margin-right: auto; padding: 0 20px 0 135px; }
 
 #imHeader_imObjectImage_01_wrapper { position: absolute; top: 63px; left: 18px; width: 280px; height: 255px; z-index: 1; overflow-y: hidden; }
@@ -562,19 +574,19 @@ input#imHeader_imObjectSearch_05_field[type=text] { width: 125px; margin-right: 
 #imHeader_imCellStyle_8 { width: 100px; min-height: 100px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 #imHeader_imCellStyleGraphics_8 { left: 0px; right: 0px; }
 #imHeader_imObjectTitle_09_wrapper { position: absolute; top: 3px; left: 355px; width: 250px; height: 39px; z-index: 9; overflow-y: hidden; }
-#imHeader_imCell_9 { width: 250px; min-height: 39px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-#imHeader_imCellStyle_9 { width: 250px; min-height: 39px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imHeader_imCell_9 { width: 250px; min-height: 43px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+#imHeader_imCellStyle_9 { width: 250px; min-height: 43px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 #imHeader_imCellStyleGraphics_9 { left: 0px; right: 0px; }
-#imHeader_imObjectTitle_09_text { font-size: 21.15pt; }
-#imHeader_imObjectTitle_09{ text-shadow: 0px 0px 0px #808080, 1px 1px 0px #7E7E7E, 2px 2px 0px #7C7C7C, 3px 3px 0px #7A7A7A, 4px 4px 0px #787878 ;}#imHeader_imObjectTitle_09_text { top: 0px;  }
-#imHeader_imObjectTitle_09 {min-height: 39px; }
+#imHeader_imObjectTitle_09_text { font-size: 20.47pt; }
+#imHeader_imObjectTitle_09{ text-shadow: 0px 0px 0px #DF9F00, 2px 2px 0px #BF7F00, 4px 4px 0px #9F5F00, 6px 6px 0px #7F3F00, 8px 8px 0px #5F1F00 ;}#imHeader_imObjectTitle_09_text { top: 0px;  }
+#imHeader_imObjectTitle_09 {min-height: 43px; }
 #imHeader_imObjectTitle_10_wrapper { position: absolute; top: 42px; left: 356px; width: 250px; height: 54px; z-index: 10; overflow-y: hidden; }
-#imHeader_imCell_10 { width: 250px; min-height: 57px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-#imHeader_imCellStyle_10 { width: 250px; min-height: 57px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+#imHeader_imCell_10 { width: 250px; min-height: 60px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+#imHeader_imCellStyle_10 { width: 250px; min-height: 60px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 #imHeader_imCellStyleGraphics_10 { left: 0px; right: 0px; }
-#imHeader_imObjectTitle_10_text { font-size: 32.19pt; }
-#imHeader_imObjectTitle_10{ text-shadow: 0px 0px 0px #808080, 1px 1px 0px #7E7E7E, 2px 2px 0px #7C7C7C, 3px 3px 0px #7A7A7A, 4px 4px 0px #787878 ;}#imHeader_imObjectTitle_10_text { top: 0px;  }
-#imHeader_imObjectTitle_10 {min-height: 57px; }
+#imHeader_imObjectTitle_10_text { font-size: 30.97pt; }
+#imHeader_imObjectTitle_10{ text-shadow: 0px 0px 0px #DF9F00, 2px 2px 0px #BF7F00, 4px 4px 0px #9F5F00, 6px 6px 0px #7F3F00, 8px 8px 0px #5F1F00 ;}#imHeader_imObjectTitle_10_text { top: 0px;  }
+#imHeader_imObjectTitle_10 {min-height: 60px; }
 #imHeader_imObjectTitle_11_wrapper { position: absolute; top: 97px; left: 356px; width: 250px; height: 60px; z-index: 11; overflow-y: hidden; }
 #imHeader_imCell_11 { width: 250px; min-height: 68px;  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 #imHeader_imCellStyle_11 { width: 250px; min-height: 68px; padding: 0px 0px 0px 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
